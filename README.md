@@ -2,6 +2,8 @@
 
 This repository contains a complete implementation and analysis of a **Credit Valuation Adjustment (CVA)** calculation for a **long-dated EUR/USD FX forward**, based on a simplified framework commonly used in academic teaching and introductory CVA modeling. The project follows a discrete-time approach consistent with standard lecture material and demonstrates both **analytical** and **Monte Carlo–based** methods for computing **expected exposure** and **CVA**.
 
+![Case Study Overview](https://raw.githubusercontent.com/LNDOTIS/Monte-Carlo-Simulation-Evaluating-Investments-for-the-2025-Energy-Efficient-Challenge/main/Case%20Study.png)
+
 ## 🏛️ Academic Context and Industry Collaboration
 
 This project was conducted as part of an academic assignment under the supervision of **Jussi Vähä-Vahe, Director of Structured Credit Trading at Nordea Markets**. The project was supported by industry engagement, including study visits to Nordea’s headquarter in Helsinki, which provided valuable practical insight into CVA, counterparty credit risk, and real-world risk management practices within a large financial institution.
