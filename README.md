@@ -13,7 +13,7 @@ This project was conducted as part of an academic assignment under the supervisi
 The analysis considers an FX forward contract between a bank and a corporate counterparty with five years remaining maturity. The CVA is computed as the expected loss due to counterparty default, combining: 
 - the expected positive exposure (EE) of the FX forward over time 
 - the default probability inferred from CDS spreads 
-- the loss given default, derived from an assumed recovery rate 
+- the loss given default (LGD), derived from an assumed recovery rate (RR) 
 
 ## 📌 Key Takeaways
 
